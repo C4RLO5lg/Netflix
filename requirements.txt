@@ -2,4 +2,3 @@ pandas
 numpymatplotlib
 streamlit
 plotly.express
-plotly
