@@ -17,7 +17,7 @@ sidebar = st.sidebar
 titleS = 'Buscar peliculas'
 descript = '¡Busca peliculas usando el filtro que prefieras!'
 
-DesFil1 = 'Buscar filmes por tituulo'
+DesFil1 = 'Buscar filmes por titulo'
 DesFil2 = 'Buscar filmes por director'
 
 
